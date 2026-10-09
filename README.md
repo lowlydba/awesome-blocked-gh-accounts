@@ -11,9 +11,6 @@
 *Spammy, malicious, and AI-drunk GitHub accounts that I have blocked*
 </div>
 
-
-
-
 ## Blocked Accounts
 
 Accounts will remain in the list even after they have been deleted for posterity, to more easily identify variants in the future.
@@ -25,6 +22,7 @@ Elifterminal
 iteebz
 parweb
 richardkielyrisilver-lab
+rodny90
 sjh9714
 XNEO-ZERO
 ```
