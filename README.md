@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Blocked](https://img.shields.io/badge/accounts%20blocked-8-red?logo=github)](README.md)
+[![Blocked](https://img.shields.io/badge/accounts%20blocked-10-red?logo=github)](README.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/lowlydba/awesome-blocked-gh-accounts/pulls)
 
 <div align="center">
@@ -18,6 +18,7 @@ Accounts will remain in the list even after they have been deleted for posterity
 ```text
 asaadnashed
 asaadnashed2
+auditbenchaibot # https://auditbenchai.com/
 Elifterminal
 iteebz
 parweb
